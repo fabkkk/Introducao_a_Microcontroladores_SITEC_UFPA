@@ -25,7 +25,7 @@ Após a parte teórica, os conceitos são aplicados em projetos práticos utiliz
 Primeiro projeto prático da aula. O objetivo é utilizar um GPIO do ESP32 como saída digital para controlar um LED.
 
 **Projeto no Wokwi:**
-[Link do projeto]([https://wokwi.com/projects/473515091996013569])
+[Link do projeto](https://wokwi.com/projects/473515091996013569)
 
 ---
 
