@@ -34,7 +34,7 @@ Primeiro projeto prático da aula. O objetivo é utilizar um GPIO do ESP32 como 
 Neste projeto, os participantes utilizam LEDs e botões para construir um jogo da memória controlado pelo ESP32. O projeto trabalha conceitos de entradas e saídas digitais, além da utilização de lógica de programação para controlar a sequência do jogo.
 
 **Projeto no Wokwi:**
-[Link do projeto](LINK_DO_WOKWI)
+[Link do projeto](https://wokwi.com/projects/473516655853164545)
 
 ---
 
