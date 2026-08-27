@@ -43,7 +43,7 @@ Neste projeto, os participantes utilizam LEDs e botões para construir um jogo d
 Neste projeto, um sensor PIR é utilizado para detectar movimento. O ESP32 recebe essa informação e, a partir dela, controla um LED, simulando de forma simplificada o funcionamento de sistemas de iluminação automática.
 
 **Projeto no Wokwi:**
-[Link do projeto](LINK_DO_WOKWI)
+[Link do projeto](https://wokwi.com/projects/473520099421748225)
 
 ---
 
