@@ -50,4 +50,4 @@ Neste projeto, um sensor PIR é utilizado para detectar movimento. O ESP32 receb
 ### Palestrantes
 
 * Fábio Ribeiro Filho — @fabkkkk
-* Rafael Collares — @)
+* Rafael Collares — @
