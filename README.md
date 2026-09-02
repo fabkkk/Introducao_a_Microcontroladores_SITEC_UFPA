@@ -4,8 +4,8 @@ Material de apoio para a aula de **Introdução a Microcontroladores**, realizad
 
 ## 📚 Materiais
 
-- 📊 [Slides da aula](slides/Introducao_a_Microcontroladores.pdf)
-- 📖 [Cartilha de C/C++ para Microcontroladores](cartilha/Cartilha_C_Cpp_Microcontroladores.pdf)
+- 📊 Slide
+- 📖 Cartilha de C++
 - 💻 Códigos dos projetos
 
 ## Sobre a aula
