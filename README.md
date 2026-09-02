@@ -2,6 +2,12 @@
 
 Material de apoio para a aula de **Introdução a Microcontroladores**, realizada na **SITEC — UFPA**.
 
+## 📚 Materiais
+
+- 📊 [Slides da aula](slides/Introducao_a_Microcontroladores.pdf)
+- 📖 [Cartilha de C/C++ para Microcontroladores](cartilha/Cartilha_C_Cpp_Microcontroladores.pdf)
+- 💻 [Códigos dos projetos](projetos/)
+
 ## Sobre a aula
 
 A aula tem como objetivo apresentar os conceitos fundamentais de microcontroladores, abordando seu funcionamento, principais componentes, tipos de pinos e formas de comunicação.
@@ -10,22 +16,29 @@ Após a parte teórica, os conceitos são aplicados em projetos práticos utiliz
 
 ## Conteúdos abordados
 
-* O que é um microcontrolador;
-* Componentes e funções de um microcontrolador;
-* Diferenças entre plataformas;
-* Pinagem do ESP32;
-* GPIOs;
-* Sinais digitais, analógicos e PWM;
-* Interfaces de comunicação UART, I²C e SPI.
+- O que é um microcontrolador;
+- Componentes e funções de um microcontrolador;
+- Diferenças entre plataformas;
+- Pinagem do ESP32;
+- GPIOs;
+- Sinais digitais, analógicos e PWM;
+- Interfaces de comunicação UART, I²C e SPI.
 
-## Projetos práticos
+## Projetos
 
 ### 1. Ligando um LED
 
 Primeiro projeto prático da aula. O objetivo é utilizar um GPIO do ESP32 como saída digital para controlar um LED.
 
-**Projeto no Wokwi:**
-[Link do projeto](https://wokwi.com/projects/473515091996013569)
+**Projeto no Wokwi:** [Link do projeto](https://wokwi.com/projects/473515091996013569)
+
+---
+
+### Demonstração — Sensor de Movimento
+
+Um sensor PIR é utilizado para detectar movimento. O ESP32 recebe essa informação e, a partir dela, controla um LED, simulando de forma simplificada o funcionamento de sistemas de iluminação automática.
+
+**Demonstração no Wokwi:** [Link do projeto](https://wokwi.com/projects/473520099421748225)
 
 ---
 
@@ -33,21 +46,11 @@ Primeiro projeto prático da aula. O objetivo é utilizar um GPIO do ESP32 como 
 
 Neste projeto, os participantes utilizam LEDs e botões para construir um jogo da memória controlado pelo ESP32. O projeto trabalha conceitos de entradas e saídas digitais, além da utilização de lógica de programação para controlar a sequência do jogo.
 
-**Projeto no Wokwi:**
-[Link do projeto](https://wokwi.com/projects/473516655853164545)
+**Projeto no Wokwi:** [Link do projeto](https://wokwi.com/projects/473516655853164545)
 
 ---
 
-### 3. Sensor de Movimento
+## Palestrantes
 
-Neste projeto, um sensor PIR é utilizado para detectar movimento. O ESP32 recebe essa informação e, a partir dela, controla um LED, simulando de forma simplificada o funcionamento de sistemas de iluminação automática.
-
-**Projeto no Wokwi:**
-[Link do projeto](https://wokwi.com/projects/473520099421748225)
-
----
-
-### Palestrantes
-
-* Fábio Ribeiro Filho — @fabkkkk
-* Rafael Collares — @rafael_collares
+- Fábio Ribeiro Filho — [@fabkkkk](https://github.com/fabkkkk)
+- Rafael Collares — [@rafael_collares](https://github.com/rafael_collares)
