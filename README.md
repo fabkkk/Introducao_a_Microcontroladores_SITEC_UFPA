@@ -54,4 +54,4 @@ Neste projeto, os participantes utilizam LEDs e botões para construir um jogo d
 
 - Fábio Ribeiro Filho — [@fabkkkk](https://www.instagram.com/fabkkkk/)
 - Rafael Collares — [@rafael_collares](https://www.instagram.com/rafael_collares/)
-- Nilson Silva - [@nisilva___](https://www.instagram.com/nisilva___/)
+- Nilson Silva — [@nisilva___](https://www.instagram.com/nisilva___/)
